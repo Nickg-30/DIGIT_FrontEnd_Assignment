@@ -1,30 +1,47 @@
 
 📌 Registration Flow
+
 The registration flow allows users to sign up and verify their identity before accessing the platform. This flow includes multiple steps for user authentication and validation.
 
 Note:
 
 The Sign-in Screen and Choose Officer Screen (during registration) were not created as part of this implementation.
+
 🚀 Steps in the Registration Flow
+
 1️⃣ Mobile Input Screen – Users enter their mobile number to start registration.
+
 2️⃣ OTP Screen – Users receive an OTP for verification.
+
 3️⃣ Advocate Verification Screen – Verifies advocate details (if applicable).
+
 4️⃣ Name Screen – Users enter their full name.
+
 5️⃣ Address Screen – Users provide their address details.
+
 6️⃣ Verify Identity Screen – Identity verification step before Aadhaar input.
+
 7️⃣ Enter Aadhaar Screen – Users enter their Aadhaar number.
+
 8️⃣ Aadhaar OTP Screen – Aadhaar OTP verification step.
+
 9️⃣ Pending Verification Status Screen – Shown after successful submission, indicating verification is in progress.
 
 🛠️ How to Use
+
 Navigate to 'works-ui/citizen/register' to start the registration process.
+
 Follow the step-by-step process to complete the verification.
 
 PS:
 Did not create the following screens.
+
 1️⃣ Login Screen
+
 2️⃣ Choose officer type Screen
+
 3️⃣ Terms & Conditions Screen
+
 4️⃣ Registered Successfully Screen
 
 
